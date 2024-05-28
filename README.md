@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Bright, and I work as a Software Engineer. 🚀 Currently, I'm pursuing a certification in Python and Java 📚, and I have a strong passion for Java, Angular and Python. 💙 Right now, I'm actively involved in creating software and applications using Springboot, python and Angular. If you're interested, you can check out my portfolio on Instagram! 📱👀</p>
+<p align="left">My name is Bright, and I work as a Software Engineer.
+🚀 I am currently pursuing certifications in Python and Java 📚.
+I have a strong passion for Java, Angular, and Python. 💙 At present,
+ I am actively involved in developing software and applications using Spring Boot,
+ Python, and Angular. If you are interested, you can view my portfolio on the following <a href="https://bright-mabuza.netlify.app/">site</a> 📱👀 </p>
 
 ###
 
@@ -14,7 +18,7 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,sprintboot,typescript,angular,postgres,intellij,vscode,androidstudio,git,github&theme=dark" />
   </a>
- 
+
 </div>
 
 ###
@@ -38,26 +42,14 @@
 
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
-<div align="left">
- 
+<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=code-alchemist-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
- 
+
 </div>
 
 ###
 
-<a href="https://www.buymeacoffee.com/code-alchemist-dev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AmirBayat&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
-
-
-
-
- 
-
-
-
-
-
-
-  
- 
+<div align="center">
+ <a href="https://www.buymeacoffee.com/code-alchemist-dev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AmirBayat&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</div>
