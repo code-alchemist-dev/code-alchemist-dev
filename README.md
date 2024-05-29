@@ -35,7 +35,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p float="left">
+<p align="center" float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=code-alchemist-dev&show_icons=true&theme=dark" alt="GitHub Stats" width="300">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-alchemist-dev&layout=compact&theme=dark" alt="Top Languages" width="300">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-alchemist-dev&theme=dark" alt="GitHub Streak" width="300">
