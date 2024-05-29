@@ -1,55 +1,40 @@
- <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
+<h1 align="center">👋 Welcome to Bright Mabuza's GitHub Profile 🚀</h1>
 
-###
+<p align="center">Hi there! I'm Bright Mabuza, a passionate Software Engineer from South Africa.</p>
 
-<p align="left">My name is Bright, and I work as a Software Engineer.
-🚀 I am currently pursuing certifications in Python and Java 📚.
-I have a strong passion for Java, Angular, and Python. 💙 At present,
- I am actively involved in developing software and applications using Spring Boot,
- Python, and Angular. If you are interested, you can view my portfolio on the following <a href="https://bright-mabuza.netlify.app/">site</a> 📱👀 </p>
+<p align="center">🌱 Currently, I'm exploring various technologies and improving my coding skills.</p>
 
-###
+<p align="center">👨‍💻 My interests include Java, Spring Boot, Python, Angular, and more.</p>
 
-<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
+<p align="center">💼 Feel free to check out my work and contributions below!</p>
 
-###
+<hr>
 
-<div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,sprintboot,typescript,angular,postgres,intellij,vscode,androidstudio,git,github&theme=dark" />
-  </a>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-###
+<hr>
 
-<h2 align="left" style="color:white;" >🌐 My socials</h2>
+<h2 align="center">📫 Connect with Me</h2>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/bright-mabuza-08697383"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/code_alchemist_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
-<div align="center">
-  <a href="https://www.instagram.com/ironborn_bs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bright-mabuza-08697383" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://mabuza6@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  
-</div>
+<hr>
 
-<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=code-alchemist-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-
-</div>
-
-###
-
-<div align="center">
- <a href="https://www.buymeacoffee.com/code-alchemist-dev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AmirBayat&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-alchemist-dev&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
